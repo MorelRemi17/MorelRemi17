@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on HarmonieVitae web site, but I am waiting for the customer's information, so it's learning & training time ! 
 - 🌱 I’m currently learning ReactJs, JavaScript, Sass, Scss.
 - ⚡ Fun fact: I am currently a self-employed entrepreneur & this is my [portfolio](https://portfolio-rmc.netlify.app/) ! go see that ! 
+- - 📫 How to reach me: remi.morel.dev@gmail.com
 
 ![Morel Rémi GitHub stats](https://github-readme-stats.vercel.app/api?username=MorelRemi17&show_icons=true&theme=radical)
 <br />
