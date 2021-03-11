@@ -23,4 +23,12 @@ Here are some ideas to get you started:
 
 ![Morel Rémi GitHub stats](https://github-readme-stats.vercel.app/api?username=MorelRemi17&show_icons=true&theme=radical)
 <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MorelRemi17&langs_count=8)
+<table>
+  <td align="center">
+    <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.languages.svg">
+    <details open><summary>With both total bytes size and percentage version</summary>
+      <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.languages.details.svg">
+    </details>
+    <img width="900" height="1" alt="">
+  </td>
+</table>
