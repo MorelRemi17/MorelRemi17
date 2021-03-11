@@ -16,19 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+***
 - 🔭 I’m currently working on HarmonieVitae web site, but I am waiting for the customer's information, so it's learning & training time ! 
 - 🌱 I’m currently learning ReactJs, JavaScript, Sass, Scss.
 - ⚡ Fun fact: I am currently a self-employed entrepreneur & this is my [portfolio](https://portfolio-rmc.netlify.app/) ! go see that ! 
-
+***
 ![Morel Rémi GitHub stats](https://github-readme-stats.vercel.app/api?username=MorelRemi17&show_icons=true&theme=radical)
-<br />
-<table>
-  <td align="center">
-    <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.languages.svg">
-    <details open><summary>With both total bytes size and percentage version</summary>
-      <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.languages.details.svg">
-    </details>
-    <img width="900" height="1" alt="">
-  </td>
-</table>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
