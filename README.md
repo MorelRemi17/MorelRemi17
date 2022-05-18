@@ -15,7 +15,7 @@
 -->
 ***
 - 🔭 I’m currently working at Ededoc office ! 
-- 🌱 I’m currently using PHP, JavaScript, Sass, Scss & symfony.
+- 🌱 I’m currently using PHP, JQuery,Twig, Scss & symfony.
 - 📫 How to reach me: remi.morel.dev@gmail.com
 ***
 
