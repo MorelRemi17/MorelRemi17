@@ -15,7 +15,7 @@
 -->
 ***
 - 🔭 I’m currently working at Scub office ! 
-- 🌱 I’m currently using Java, Spring, Angular, TypeScript, Scss, Postman, GitLab, Bootstrap & Linux.
+- 🌱 I’m currently using Java, Spring, Angular, TypeScript, Scss, Postman, GitLab, Bootstrap, Tailwindcss & Linux.
 - 📫 How to reach me: remi.morel.dev@gmail.com
 ***
 
